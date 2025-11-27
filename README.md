@@ -60,7 +60,7 @@
 
 ## 🎓 Internships
 - **Cognifys** – Power BI Intern  
-- **Top Tech Developers** – MEAN Intern  
+- **RKS INFOTECH** – MEAN Intern  
 
 ---
 
